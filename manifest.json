@@ -1,0 +1,10 @@
+{
+  "name": "X Verified Follower Count",
+  "description": "See how many verified followers you have on X.",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "logo.png"
+  }
+}
